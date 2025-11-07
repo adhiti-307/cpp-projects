@@ -1,2 +1,19 @@
-# cpp-projects
-This repository contains various C++ projects and code samples, from beginner-level programs to full console-based applications. It serves as a learning resource and a showcase of C++ programming concepts including OOP, STL, data structures, and algorithms.
+# C++ Projects Collection
+
+This repository contains a variety of C++ projects ranging from beginner-level programs to full mini applications.  
+The purpose of this collection is to practice C++ programming, OOP concepts, data structures, algorithms, and STL usage.
+
+## 📂 Project Categories
+- Console-based Applications
+- Object-Oriented Programming (OOP) Projects
+- Data Structures Implementations
+- Algorithm Implementations (Sorting, Searching, etc.)
+- DSA Practice Programs
+
+## 🚀 How to Compile and Run
+
+Use g++:
+
+```bash
+g++ filename.cpp -o program
+./program
